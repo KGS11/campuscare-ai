@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusCare AI 🏫🤖
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -75,3 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 *Created and maintained by [KGS11](https://github.com/KGS11).*
+=======
+# campuscare-ai
+Smart student support platform powered by AI.
+>>>>>>> 5fdfd5f5b62380589afc97a225e983cb79062e62
